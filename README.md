@@ -56,11 +56,25 @@ Dataset: Tomato Leaf Diseases Detection Computer Vision Dataset
 
 
 
-\## Prediction Examples
+## Prediction Results
 
+### Late Blight Prediction
 
+The model detected Late Blight on a tomato leaf image.
 
-The model was tested on tomato leaf images and successfully predicted diseases.
+<img src="tomato leaf.jpg" width="500">
+
+### Second Leaf Prediction
+
+The model predicted Late Blight on another tomato leaf image.
+
+<img src="tomato2.jpg" width="500">
+
+### Healthy Leaf Prediction
+
+The model tested a healthy tomato leaf and detected no disease.
+
+<img src="Healthy tomato.jpg" width="500">
 
 
 
